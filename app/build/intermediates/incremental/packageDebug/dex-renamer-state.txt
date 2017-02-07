@@ -1,0 +1,7 @@
+#Tue Feb 07 12:21:28 EST 2017
+base.0=T\:\\FragmentBasics-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b0f010b8120d22527783b0fd3a5945e179f2dde3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=T\:\\FragmentBasics-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_90e4aa46f8d1e93c4c2cfc185c5715d2dc407e5c\\classes.dex
+base.1=T\:\\FragmentBasics-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_90e4aa46f8d1e93c4c2cfc185c5715d2dc407e5c
+file.0=T\:\\FragmentBasics-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b0f010b8120d22527783b0fd3a5945e179f2dde3\\classes.dex
